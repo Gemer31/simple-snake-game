@@ -1,4 +1,5 @@
 # simple-snake-game
+![Alt Text](./src/assets/work-video.gif)
 
 ## Project setup
 ```
